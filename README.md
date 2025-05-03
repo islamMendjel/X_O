@@ -1,17 +1,29 @@
-# X_O
-This project is a simple implementation of the classic X-O (Tic-Tac-Toe) game using HTML, CSS, and JavaScript. The game allows two players to take turns marking spaces on a 3x3 grid with their respective symbols (X or O) until one player achieves three symbols in a row, column, or diagonal, or until the grid is filled with no winner, resulting in a draw.
+## 🚀 Neo Tic-Tac-Toe (Updated 2025)
 
-Key Features:
+Neo Tic-Tac-Toe is a futuristic take on the classic grid game, built with modern web technologies to deliver a responsive, animated, and engaging experience.
 
-    Provides a user-friendly interface for playing the X-O game directly in the web browser.
-    Utilizes HTML for structuring the game board and user interface elements.
-    Applies CSS for styling the game interface, including grid layout, symbols, and player prompts.
-    Implements JavaScript for game logic, including handling player turns, checking for a winner, and detecting a draw condition.
-    Supports responsive design for compatibility with various screen sizes and devices.
+---
 
-Usage:
+### ✨ Features
+- **Responsive CSS Grid** layout ensures the board scales across devices :contentReference[oaicite:6]{index=6}  
+- **Glassmorphism** card design with `backdrop-filter: blur()` for depth :contentReference[oaicite:7]{index=7}  
+- **Oxanium** font for a sci-fi HUD feel :contentReference[oaicite:8]{index=8}  
+- **Neon-glow text** and cell styling using layered `text-shadow` :contentReference[oaicite:9]{index=9}  
+- **Smooth hover & active animations** via `transform` and `box-shadow` transitions :contentReference[oaicite:10]{index=10}  
+- **Scoreboard** tracks X and O wins in real time  
+- **Restart button** resets both board and scores  
+- **Modular JavaScript (IIFE)** for clean state management :contentReference[oaicite:11]{index=11}  
 
-    Open the provided HTML file in a web browser.
-    Two players take turns clicking on the empty cells of the grid to place their respective symbols (X or O).
-    The game automatically checks for a winner after each move and displays the result.
-    If no winner is found and the grid is filled with symbols, the game announces a draw.
+---
+
+### 🛠 Technology Stack
+- **HTML5 & CSS3** (Grid, `backdrop-filter`, custom properties) :contentReference[oaicite:12]{index=12}  
+- **JavaScript (ES6)** using Immediately-Invoked Function Expression for encapsulation :contentReference[oaicite:13]{index=13}  
+- **Google Fonts** for Oxanium typeface :contentReference[oaicite:14]{index=14}  
+
+---
+
+### 📦 Installation
+1. **Clone** the repository  
+   ```bash
+   git clone https://github.com/islamMendjel/Book-Hive-Website-Store.git
