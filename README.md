@@ -5,21 +5,21 @@ Neo Tic-Tac-Toe is a futuristic take on the classic grid game, built with modern
 ---
 
 ### ✨ Features
-- **Responsive CSS Grid** layout ensures the board scales across devices :contentReference[oaicite:6]{index=6}  
-- **Glassmorphism** card design with `backdrop-filter: blur()` for depth :contentReference[oaicite:7]{index=7}  
-- **Oxanium** font for a sci-fi HUD feel :contentReference[oaicite:8]{index=8}  
-- **Neon-glow text** and cell styling using layered `text-shadow` :contentReference[oaicite:9]{index=9}  
-- **Smooth hover & active animations** via `transform` and `box-shadow` transitions :contentReference[oaicite:10]{index=10}  
+- **Responsive CSS Grid** layout ensures the board scales across devices
+- **Glassmorphism** card design with `blur()` for depth
+- **Oxanium** font for a sci-fi HUD feel
+- **Neon-glow text** and cell styling using layered `text-shadow`
+- **Smooth hover & active animations** via `transform` and `box-shadow` transitions 
 - **Scoreboard** tracks X and O wins in real time  
 - **Restart button** resets both board and scores  
-- **Modular JavaScript (IIFE)** for clean state management :contentReference[oaicite:11]{index=11}  
+- **Modular JavaScript (IIFE)** for clean state management
 
 ---
 
 ### 🛠 Technology Stack
-- **HTML5 & CSS3** (Grid, `backdrop-filter`, custom properties) :contentReference[oaicite:12]{index=12}  
-- **JavaScript (ES6)** using Immediately-Invoked Function Expression for encapsulation :contentReference[oaicite:13]{index=13}  
-- **Google Fonts** for Oxanium typeface :contentReference[oaicite:14]{index=14}  
+- **HTML5 & CSS3** 
+- **JavaScript (ES6)** using Immediately-Invoked Function Expression for encapsulation
+- **Google Fonts** for Oxanium typeface
 
 ---
 
